@@ -12,7 +12,6 @@
     display:flex;
     align-items:center;
     justify-content:center;
-
 }
 .calculator{
     background:#3a4452;
@@ -48,7 +47,6 @@ form .display input{
 }
 form input.equal{
     width:145px;
-
 }
 form .operator{
         color:#33ffd8;
